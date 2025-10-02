@@ -1,4 +1,4 @@
-health-data, tableau, excel, financial-analysis, healthcare-it# FinSight360 — Financial Health Analysis
+# FinSight360 — Financial Health Analysis
 
 **Short:** Project planning + data analysis of a company's financials to assess profitability, liquidity, and debt risk with Excel, Tableau, and a client-ready PowerPoint.
 

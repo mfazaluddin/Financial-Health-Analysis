@@ -20,8 +20,3 @@
 
 ---
 
-## Quick demo & screenshots
-![Dashboard thumbnail](images/dashboard_thumbnail.png)
-
-**Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/your-dashboard-link)  
-**Presentation (PDF):**
